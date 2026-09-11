@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3104181464434273259
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1290429470914639172, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290429470914639172, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0000001651756
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849550569029197231, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4392608424811847532, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4392608424811847532, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6275900729660737808, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_Name
+      value: Percise_Tank Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
