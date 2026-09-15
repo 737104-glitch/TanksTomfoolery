@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1197553708074939752, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_Speed
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 1290429470914639172, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -64,9 +68,25 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5029170394047249954, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_ShotCooldown
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5029170394047249954, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_ExplosionForce
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 5029170394047249954, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_ExplosionRadius
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 6275900729660737808, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
       propertyPath: m_Name
       value: Percise_Tank Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8920513400228509294, guid: 47ca2dcb2ca8f4a4db15707ec3382e77, type: 3}
+      propertyPath: m_StartingHealth
+      value: 50
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

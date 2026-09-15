@@ -94,11 +94,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_ExplosionForce
-      value: 75
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_ExplosionRadius
-      value: 10
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 6643300791942743294, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_Name
@@ -106,7 +106,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135122730445044608, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_StartingHealth
-      value: 125
+      value: 300
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

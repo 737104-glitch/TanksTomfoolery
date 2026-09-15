@@ -132,15 +132,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_MaxDamage
-      value: 80
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
+      propertyPath: m_ShotCooldown
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_MaxChargeTime
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
+      propertyPath: m_ExplosionForce
+      value: 175
+      objectReference: {fileID: 0}
+    - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_ExplosionRadius
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 6643300791942743294, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_Name
@@ -148,7 +156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135122730445044608, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_StartingHealth
-      value: 250
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 9146393906766745384, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_Size.y
