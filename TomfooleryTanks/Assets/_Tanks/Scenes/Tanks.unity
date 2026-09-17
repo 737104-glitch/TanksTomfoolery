@@ -1401,12 +1401,60 @@ PrefabInstance:
       propertyPath: m_GameManager
       value: 
       objectReference: {fileID: 748491087}
+    - target: {fileID: 2819313449650211461, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2819313449650211461, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2819313449650211461, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156206094667260151, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.b
+      value: 0.5927259
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156206094667260151, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.g
+      value: 0.14297791
+      objectReference: {fileID: 0}
+    - target: {fileID: 4156206094667260151, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.r
+      value: 0.5943396
+      objectReference: {fileID: 0}
     - target: {fileID: 7609624745474981709, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
       propertyPath: m_Name
       value: Menus
       objectReference: {fileID: 0}
     - target: {fileID: 7609624745474981709, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772922631316896374, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.b
+      value: 0.15794235
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772922631316896374, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.g
+      value: 0.15107691
+      objectReference: {fileID: 0}
+    - target: {fileID: 7772922631316896374, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.r
+      value: 0.3301887
+      objectReference: {fileID: 0}
+    - target: {fileID: 8525782389001097524, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8525782389001097524, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8525782389001097524, guid: 328826c1fd47c3e4bb07a1dec3ec4c19, type: 3}
+      propertyPath: m_SlotColor.r
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

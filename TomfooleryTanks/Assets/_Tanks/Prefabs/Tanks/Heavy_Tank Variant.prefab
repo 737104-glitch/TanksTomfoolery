@@ -17,6 +17,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1997157772186663046, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
+      propertyPath: m_Speed
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1997157772186663046, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_EngineIdling
       value: 
       objectReference: {fileID: 8300000, guid: 4932ab25b84dd7649b80af68a9660ddc, type: 3}
@@ -82,7 +86,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_MaxDamage
-      value: 125
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_ShotCooldown
@@ -97,6 +101,10 @@ PrefabInstance:
       value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
+      propertyPath: m_MaxLaunchForce
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5684377786790343628, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_ExplosionRadius
       value: 15
       objectReference: {fileID: 0}
@@ -106,7 +114,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135122730445044608, guid: d9b03044db6b2fb42839e0d0fa950c8d, type: 3}
       propertyPath: m_StartingHealth
-      value: 300
+      value: 350
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
